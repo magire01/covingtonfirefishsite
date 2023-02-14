@@ -1,0 +1,63 @@
+[
+    {
+        "section": "Apps and Sides",
+        "items": [
+            {
+                "itemName": "Fries",
+                "itemPrice": 3.00
+            },
+            {
+                "itemName": "Pickles",
+                "itemPrice": 4.00
+            },
+            {
+                "itemName": "Chips",
+                "itemPrice": 1.00
+            }
+        ]
+    },
+    {
+        "section": "Platters",
+        "items": [
+            {
+                "itemName": "Fish",
+                "itemPrice": 8.00
+            },
+            {
+                "itemName": "Shrimp",
+                "itemPrice": 8.00
+            }
+        ]
+    },
+    {
+        "section": "Kids",
+        "items": [
+            {
+                "itemName": "Hot Dog",
+                "itemPrice": 4.00
+            },
+            {
+                "itemName": "Pizza",
+                "itemPrice": 3.00
+            }
+        ]
+    },
+    {
+        "section": "Drinks",
+        "items": [
+            {
+                "itemName": "Water",
+                "itemPrice": 1.00
+            },
+            {
+                "itemName": "Coke",
+                "itemPrice": 1.00
+            },
+            {
+                "itemName": "Beer",
+                "itemPrice": 3.00
+            }
+            
+        ]
+    }
+]
